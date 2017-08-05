@@ -44,4 +44,4 @@ Run the Xcode project
 https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png
 
 
-![Alt text](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "Optional title")
+![Center][Alt text](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "Optional title")

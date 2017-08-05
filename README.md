@@ -20,7 +20,7 @@ A step by step series of examples that tell you have to get a development env ru
 Download the git repo to your local machine by either clicking 'Download' or using the following command in terminal
 
 ```
-git clone https://github.com/ahspadafora/GetTheForecast.git
+git clone https://github.com/ahspadafora/calculator.git
 ```
 
 go to the project directory in terminal and open the Xcode project 

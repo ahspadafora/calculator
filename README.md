@@ -22,10 +22,9 @@ Download the git repo to your local machine by either clicking 'Download' or usi
 ```
 git clone https://github.com/ahspadafora/calculator.git
 ```
-```
+
 go to the project directory in terminal and open the Xcode project 
 
-```
 
 Run the Xcode project
 

@@ -28,12 +28,10 @@ go to the project directory in terminal and open the Xcode project
 
 Run the Xcode project
 
-## Built With
+## Built Using
 
 * MVC architect
-
-
-
+* Stackviews
 
 ## Authors
 

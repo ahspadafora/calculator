@@ -39,13 +39,13 @@ Run the Xcode project
 
 ## Screenshots
 
-![screen shot one](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "vertical screenshot")</img>
+<img src="https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png"> </img>
 
 <p align="center">
-<img src='https://user-images.githubusercontent.com/24783196/28995223-780111f2-7998-11e7-9401-138d2d869242.png'> <img/>
+<img src='https://user-images.githubusercontent.com/24783196/28995223-780111f2-7998-11e7-9401-138d2d869242.png'> </img>
 </p>
 
 
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/24783196/28995234-bd7fb544-7998-11e7-9e3a-29e532710aab.gif'> <img/>
+  <img src='https://user-images.githubusercontent.com/24783196/28995234-bd7fb544-7998-11e7-9e3a-29e532710aab.gif'> </img>
 </p>

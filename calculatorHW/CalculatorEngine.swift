@@ -28,7 +28,8 @@ struct CalculatorEngine {
         "÷" : .binaryOperation({ $0 / $1 }),
         "^" : .binaryOperation({ pow($0, $1) }),
         "=" : .equals,
-        "Clear" : .clear
+        "Clear" : .clear,
+        "±" : .unaryOperation({ -$0 })
     ]
     
     // only performOperations func needs to see this

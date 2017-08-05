@@ -41,7 +41,7 @@ Run the Xcode project
 
 ## Screenshots
 
-https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png
 
+![screen shot one](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "vertical screenshot")
 
-![Center][Alt text](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "Optional title")
+![screen shot one](https://user-images.githubusercontent.com/24783196/28995224-780181f0-7998-11e7-971a-7dbf1c3dec63.png "horizontal screenshot")
